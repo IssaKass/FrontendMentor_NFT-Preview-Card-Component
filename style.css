@@ -139,6 +139,7 @@ body {
 
 .card-info {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   font-size: var(--fs-300);
